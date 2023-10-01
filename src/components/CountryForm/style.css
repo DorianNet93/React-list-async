@@ -1,0 +1,35 @@
+.form__wrapper {
+  padding: 20px;
+  background-color: #e2e2e2;
+  border-radius: 5px;
+}
+
+.form__wrapper h3 {
+  margin-top: 0;
+}
+
+.form-select__countries  {
+  display: flex;
+  flex-direction: column;
+}
+
+.bold--text {
+  font-weight: bold;
+}
+
+.form-select__countries label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.form-select__countries label select {
+  margin-top: 6px;
+  padding: 8px 12px 8px 12px;
+  border-radius: 4px;
+}
+
+.color__black  {
+  color: black !important; 
+  border-color: #958f8f !important;
+}

@@ -1,0 +1,11 @@
+.wrapper__country-card   {
+  border-radius: 5px;
+  background-color: #e2e2e2;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 10px;
+}
+
+.buttom--black {
+  color: black !important; 
+  border-color: #958f8f !important;
+}

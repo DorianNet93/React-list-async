@@ -1,0 +1,43 @@
+.footerLink {
+  display: flex;
+
+  align-items: center;
+  width: 33.333%;
+}
+
+.footer__text {
+  justify-content: flex-start;
+}
+
+.footerLink__socials {
+  display: flex;
+  justify-content: center;
+  max-height: 30px;
+  width: 33.33%;
+  gap: 2%;
+  align-items: center;
+}
+
+.footerLink__social {
+  display: flex;
+}
+
+.aboutMe {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 30px;
+  width: 33.333%;
+}
+
+.footer-link-git {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  margin: 0;
+}
+
+.footer-link-text {
+  margin-right: 10px;
+}
